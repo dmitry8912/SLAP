@@ -1,0 +1,8 @@
+SLAPPUT factorial
+PLOPIN fact_tmp factorial
+factorial_calc
+fact_tmp UNSLAP 1
+factorial MULTISLAP fact_tmp
+fact_tmp PUNCHES 1
+KNOCK factorial_calc
+SLAPSCREEN factorial
